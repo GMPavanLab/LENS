@@ -1,0 +1,17 @@
+#include "martini_v2.2.itp"
+#include "martini_v2.0_DPPC_01.itp"
+#include "martini_v2.0_DIPC_01.itp"
+
+[ system ]
+; name
+INSANE! Membrane UpperLeaflet>DPPC:DIPC=3.0:2.0 LowerLeaflet>DPPC:DIPC=3.0:2.0
+
+
+[ molecules ]
+; name  number
+DPPC           345
+DIPC           230
+DPPC           345
+DIPC           230
+W            17087
+WF              900
