@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: LENS
+title: Local Environments and Neighbors Shuffling (LENS)
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -25,3 +25,6 @@ authors:
     email: giovanni.pavan@polito.it
     affiliation: 'Politecnico di Torino, SUPSI'
     orcid: 'https://orcid.org/0000-0002-3473-8471'
+repository-code: 'https://github.com/GMPavanLab/LENS/'
+commit: fc42b2d39a2f15e0a94e511badf881b7b94406b6
+date-released: '2022-12-22'
