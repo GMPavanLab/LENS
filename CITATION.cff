@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LENS
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Martina
+    family-names: Crippa
+    affiliation: Politecnico di Torino
+    orcid: 'https://orcid.org/0000-0002-6682-0015'
+  - given-names: Annalisa
+    family-names: Cardellini
+    affiliation: SUPSI
+    orcid: 'https://orcid.org/0000-0002-6359-6118'
+  - given-names: Cristina
+    family-names: Caruso
+    affiliation: Politecnico di Torino
+    orcid: 'https://orcid.org/0000-0002-1372-2374'
+  - given-names: Giovanni Maria
+    family-names: Pavan
+    email: giovanni.pavan@polito.it
+    affiliation: 'Politecnico di Torino, SUPSI'
+    orcid: 'https://orcid.org/0000-0002-3473-8471'
